@@ -1,0 +1,29 @@
+*{
+    background-image: linear-gradient(to right, #DECBA4, #3E5151);
+}
+
+.desc,.ingredients,.steps{
+    padding:5px;
+    border:2px solid beige;
+    border-radius: 10px;
+    margin:auto;
+    margin-top: 10px;
+}
+h1{
+    text-align: center;
+}
+.img1{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width:40%;
+}
+.main{
+    display: block;
+    text-decoration: none;
+    text-align: center;
+    color:purple;
+    background-image: none;
+
+}
+
