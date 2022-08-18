@@ -1,0 +1,46 @@
+*{
+    background-image: linear-gradient(to right, #DECBA4, #3E5151);
+}
+
+.title{
+    color: black ;
+    font-weight: bold;
+    font-size: 45px;
+    text-align: center;
+}
+
+.item1, .item2{
+    padding:10px;
+    border:3px solid beige;
+    margin:5px;
+}
+
+.img1, .img2{
+    height: auto;
+    width: 25%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.item1-title, .item2-title{
+    display:block;
+    font-size: 30px;
+    margin: auto;
+    width: 50%;
+    text-align: center;
+
+}
+
+.first-item-title,.second-item-tt{
+   color: #000;
+   font-size: 14px;
+   
+   padding: 5px;
+   margin:20px;
+  
+   
+   
+}
+.second-item-tt{
+    display: block;
+}
